@@ -2,3 +2,4 @@ for test t.txt
 for the second test
 
 I has a bug, is been fixed now. 
+I want a branch for fix bug
